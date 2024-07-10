@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReprisalGod
+- 👋 Hi, I’m @ReprisalG
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on 
